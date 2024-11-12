@@ -35,7 +35,7 @@ To deploy locally you need to install the following
 ### Installation
 ------------
 ```bash
-git clone https://github.com/RhazeCoder/ngl-bomber-pro
+git clone https://github.com/PolongDev/ngl-bomber-pro
 ```
 ```bash
 cd ngl-bomber-pro
@@ -66,4 +66,4 @@ npm run start
 
 ----------
 
-***Coded with 🖤 by RhazeCoder***
+***Coded with 🖤 by PolongDev***
