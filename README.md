@@ -6,9 +6,6 @@
 ------------
 Do you want to get noticed by your crush or simply have some fun with your friends? Look no further! Ngl Bomber is the perfect project for you. This tool allows you to send multiple messages to users, making it a fun way to grab attention or play harmless pranks. Whether you're trying to stand out or just looking for a good laugh, Ngl Bomber has got you covered. Dive in and start sending those messages!
 
-Watch Demo Video Below:
-[![Watch the video](./screenshots/main.png)](https://youtu.be/heawRuLL9rk)
-
 **Modes**
 - Normal(anonymous)
 - Confessions
