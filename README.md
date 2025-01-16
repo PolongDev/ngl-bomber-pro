@@ -1,6 +1,6 @@
 <h1>NGL Bomber</h1>
 
-[Project Preview](https://ngl-bomber-pro.onrender.com/ "Project Preview")
+[Project Preview](https://ngl-bomber-polongdev.onrender.com/ "Project Preview")
 
 ![Preview](./images/preview.png)
 
